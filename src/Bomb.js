@@ -2,7 +2,7 @@
 import React from 'react';
 
 export default class Bomb extends React.Component {
-  constructor (){
+  constructor (props) {
     super ();
     this.state = {
       secondsLeft:
