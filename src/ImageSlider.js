@@ -1,2 +1,2 @@
 // your ImageSlider code here!
-import reac
+import React from 'react';
