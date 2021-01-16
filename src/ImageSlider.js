@@ -2,6 +2,10 @@
 import React from 'react';
 
 export default class ImageSlider extends React.Component {
+  state = {
+    currentSlideIndes:0
+  }
+  
   render () {
     return();
   }
